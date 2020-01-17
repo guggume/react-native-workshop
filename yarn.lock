@@ -1836,6 +1836,11 @@ concat-stream@^1.6.0:
     readable-stream "^2.2.2"
     typedarray "^0.0.6"
 
+config-slash-prettier@^1.0.0:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/config-slash-prettier/-/config-slash-prettier-1.0.2.tgz#ac6fecd3285c2ac7d17cc5a5bc7483dff4f6beae"
+  integrity sha512-p1ZL1arJVA2YWxit1VvxWlx/Bykmayh18x/+stF24tiAJKuNg1N/tzTqRKBOAvB/m6cSNFpmWXHAQjNOHOQvNw==
+
 connect@^3.6.5:
   version "3.7.0"
   resolved "https://registry.yarnpkg.com/connect/-/connect-3.7.0.tgz#5d49348910caa5e07a01800b030d0c35f20484f8"
