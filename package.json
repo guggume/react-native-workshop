@@ -11,7 +11,6 @@
     "flow": "flow"
   },
   "dependencies": {
-    "config-slash-prettier": "^1.0.0",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-splash-screen": "^3.2.0"
@@ -21,6 +20,7 @@
     "@babel/runtime": "^7.6.2",
     "@react-native-community/eslint-config": "^0.0.5",
     "babel-jest": "^24.9.0",
+    "config-slash-prettier": "^1.0.2",
     "eslint": "^6.5.1",
     "flow-bin": "0.105.2",
     "husky": ">=1",
